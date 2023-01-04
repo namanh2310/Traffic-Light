@@ -14,7 +14,7 @@ This is the final project of Micro-processing System course in university !!
 • 122x32 Graphical LCD with SED1520 controllers (LCD displaying information) \
 • Traffic light \
 • Red/Green lights \
-• Motor DC \ 
+• Motor DC \
 • Voltmeter \
 • Button \
 • Virtual Terminal
