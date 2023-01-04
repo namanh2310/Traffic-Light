@@ -25,3 +25,6 @@ This is the final project of Micro-processing System course in university !!
 • UART: using the receiver (Rx) and transmitter (Tx) for displaying the speed of the transportation in Virtual Terminal \
 • ADC: increasing/decreasing the transportation's velocity by changing the value of voltmeter \
 • SPI: applying the slave-master model, I can generate the countdown screen for the traffic light
+
+## Demo here we go !!!
+![image](https://user-images.githubusercontent.com/101866057/210560865-8e250a4e-0fc6-448f-8e91-db25e137eb97.png)
