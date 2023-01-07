@@ -28,3 +28,7 @@ This is the final project of Micro-processing System course in university !!
 
 ## Demo here we go !!!
 ![image](https://user-images.githubusercontent.com/101866057/210560865-8e250a4e-0fc6-448f-8e91-db25e137eb97.png)
+
+
+https://user-images.githubusercontent.com/101866057/211134976-ea223414-ae4d-47fd-be29-8461c8b3a327.mp4
+
