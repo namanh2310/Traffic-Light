@@ -5,9 +5,9 @@ A Micro-controller Project
 This is the final project of Micro-processing System course in university !!
 
 ## Technologies:
-• Schema: using Proteus for simulating the electronic circuit \
+• Schematic Design: using Proteus for simulating the electronic circuit \
 ![image](https://user-images.githubusercontent.com/101866057/210557114-3ce07832-c854-4822-8259-b83cfe9d57d4.png) \
-• Code: using C programming for connecting to many peripherals for this project
+• Embed Code: using C programming for connecting to many peripherals for this project
 
 ## Devices:
 • Blue 2 Digit-7 Segment Anode LCD (LCD displaying countdown number) \
